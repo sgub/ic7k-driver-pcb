@@ -1,6 +1,6 @@
 # Improved IC-7000 HF/VHF/UHF Transceiver driver stage PCB
 
-Features:
+## Features:
 * Reduce pinheader spacing from 1.5mm to 1.27mm, for better availability of parts and easier mating with the PA board.
 * Added resistor R103 in series with the gate of the MOSFET, to suppress self oscillication on certain conditions which could burn-off the driver module.
 
