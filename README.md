@@ -13,5 +13,5 @@
 * C101: Choose value from 10nF (Original value) to 100nF(more feedback on higher frequency, safer), size 0805.
 
 ## Build notes:
-* Preffered board material is FR4 double layer, 1.6mm thick.
+* Prefered board material is FR4 double layer, 1.6mm thick.
 * Apply enough solder between the underside of the MOSFET and the heatsink for effective heat conducting, avoid space, solder/heating with proper tool, refer STMicroelectronics AN1294 Application note for temperature limit and technique recommendation.
