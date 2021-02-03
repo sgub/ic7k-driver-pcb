@@ -14,4 +14,4 @@
 
 ## Build notes:
 * Prefered board material is FR4 double layer, 1.6mm thick.
-* Apply enough solder between the underside of the MOSFET and the heatsink for effective heat conducting, avoid space, solder/heating with proper tool, refer STMicroelectronics AN1294 Application note for temperature limit and technique recommendation.
+* Apply enough solder between the underside of the MOSFET and the heatsink for effective heat conducting, avoid space, solder/heating with proper tool. Refer STMicroelectronics AN1294 Application note for temperature limit and technique recommendation.
